@@ -23,7 +23,7 @@
 ![Design](https://skillicons.dev/icons?i=ps,ae,pr,figma)
 
 **Development Tools:**
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,jest)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,postman)
 
 ## 🎯 What I'm Up To
 - 📚 Studying Application Development at RRC Polytech
