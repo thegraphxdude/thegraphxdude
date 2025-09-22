@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Pavel]
+# Hi there! 👋 I'm Pavel
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Application+Development+Student;Video+%26+Photo+Editor;Building+Cool+Projects!)
 
