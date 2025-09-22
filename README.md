@@ -30,9 +30,6 @@
 - 🎥 Creating engaging video content and stunning visuals
 - 🚀 Always exploring new technologies and creative techniques
 
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thegraphxdude&theme=tokyo-night)
-
 ---
 💡 *"Code by day, create by night"* - Balancing development and creativity
 
